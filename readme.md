@@ -25,7 +25,7 @@
 - 通过阿里云 **Serverless 应用中心**： 可以点击 [【🚀 部署】](https://fcnext.console.aliyun.com/applications/create?template=start-django) ，按照引导填入参数，快速进行部署和体验。
 
 ### 在本地部署体验
-
+s
 1. 下载安装 Serverless Devs：`npm install @serverless-devs/s` 
     > 详细文档可以参考 [Serverless Devs 安装文档](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/install.md)
 2. 配置密钥信息：`s config add`
